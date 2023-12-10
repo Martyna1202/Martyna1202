@@ -1,12 +1,15 @@
-### Hi there 👋
+### Hi there 😄, I'm Martina
+
+
+- 👩‍💻 I’m currently working on a very cool project. It's an e-commerce website and a shopping and price comparsion plattform.
+- 🌱 I’m currently learning and improving my skills in Vue.js, Nuxt.js, GraphQL, Nest.js, Swagger and much more
+
 
 <!--
 **Martyna1202/Martyna1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
