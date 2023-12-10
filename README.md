@@ -1,4 +1,4 @@
-### Hi there 😄, I'm Martina
+### Hi there 😄, I'm Martyna
 
 
 - ❤️ I’m a passionate junior webdeveloper & in love with my passion to create and develop new things.
