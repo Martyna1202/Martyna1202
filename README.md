@@ -9,15 +9,15 @@
 
 - ![image](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=plastic&logo=javascript&logoColor=%23F7DF1E&labelColor=black
 )   ![image](https://img.shields.io/badge/TypeScript-%233178C6?style=plastic&logo=typescript&logoColor=%233178C6&labelColor=white
-)   ![image](https://img.shields.io/badge/Node_JS-%23339933?style=plastic&logo=nodedotjs&logoColor=%23339933&labelColor=black
-)   ![image](https://img.shields.io/badge/Nest.js-%23E0234E?style=plastic&logo=nestjs&logoColor=%23E0234E&labelColor=black
+)  
+- ![image](https://img.shields.io/badge/Vue.js-%234FC08D?style=plastic&logo=vuedotjs&logoColor=%234FC08D&labelColor=black)   ![image](https://img.shields.io/badge/Nuxt.js-%234FC08D?style=plastic&logo=nuxtdotjs&logoColor=%234FC08D&labelColor=black) 
+  **&** ![image](https://img.shields.io/badge/ReactJS-%2361DAFB?style=plastic&logo=react&logoColor=%2361DAFB&labelColor=black
+)  ![image](https://img.shields.io/badge/NextJS-%23000000?style=plastic&logo=nextdotjs&logoColor=%23000000&labelColor=white
+)   
+-    ![image](https://img.shields.io/badge/Node_JS-%23339933?style=plastic&logo=nodedotjs&logoColor=%23339933&labelColor=black
+)  ![image](https://img.shields.io/badge/Nest.js-%23E0234E?style=plastic&logo=nestjs&logoColor=%23E0234E&labelColor=black
 )   ![image](https://img.shields.io/badge/Swagger-%2385EA2D?style=plastic&logo=swagger&logoColor=%2385EA2D&labelColor=black
 )
-- ![image](https://img.shields.io/badge/Vue.js-%234FC08D?style=plastic&logo=vuedotjs&logoColor=%234FC08D&labelColor=black)   ![image](https://img.shields.io/badge/Nuxt.js-%234FC08D?style=plastic&logo=nuxtdotjs&logoColor=%234FC08D&labelColor=black) 
-- ![image](https://img.shields.io/badge/ReactJS-%2361DAFB?style=plastic&logo=react&logoColor=%2361DAFB&labelColor=black
-)  ![image](https://img.shields.io/badge/NextJS-%23000000?style=plastic&logo=nextdotjs&logoColor=%23000000&labelColor=white
-)   ![image](https://img.shields.io/badge/Handlebars-%23000000?style=plastic&logo=handlebarsdotjs&logoColor=%23000000&labelColor=white
-) 
 - ![image](https://img.shields.io/badge/MongoDB-%2347A248?style=plastic&logo=mongodb&logoColor=%2347A248&labelColor=black
 )   ![image](https://img.shields.io/badge/Prisma-%232D3748?style=plastic&logo=prisma&logoColor=%232D3748&labelColor=white
 )   ![image](https://img.shields.io/badge/GraphQL-%23E10098?style=plastic&logo=graphql&logoColor=%23E10098&labelColor=black
@@ -50,6 +50,8 @@
 - ![image](https://img.shields.io/badge/Amazon_AWS-%23232F3E?style=plastic&logo=amazonaws&logoColor=%23232F3E&labelColor=white
 )
 
+- ![image](https://img.shields.io/badge/Handlebars-%23000000?style=plastic&logo=handlebarsdotjs&logoColor=%23000000&labelColor=white
+) 
 
 **Martyna1202/Martyna1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
