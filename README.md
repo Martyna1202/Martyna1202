@@ -1,7 +1,7 @@
 ## Hi there 😄, I'm Martyna
 
 
-- ❤️ I’m a passionate junior webdeveloper & in love with my passion to create and develop new things.
+- ❤️ I’m a passionate junior webdeveloper & crazy about learning, creating and developing new things.
 - 👩‍💻 I’m currently working on a very cool project. It's an e-commerce website and a shopping and price comparsion plattform.
 - 🌱 I’m learning and improving my skills in Vue.js, Nuxt.js, GraphQL, Nest.js, Swagger and much more
   
