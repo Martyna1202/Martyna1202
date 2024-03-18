@@ -2,8 +2,8 @@
 
 
 - ❤️ I’m a passionate junior webdeveloper & crazy about learning, creating and developing new things.
-- 👩‍💻 I’m currently working on a very cool project. It's an e-commerce website and a shopping and price comparsion plattform.
-- 🌱 I’m learning and improving my skills in Vue.js, Nuxt.js, GraphQL, Nest.js, Swagger and much more
+- 👩‍💻 I’m currently working on a very cool project at work with my teammates. It's  [pedali.de](https://www.pedali.de/), this is an e-commerce website and a shopping and price comparsion plattform.
+- 🌱 I’m learning and improving my skills in Vue.js, Nuxt.js, TypeScript, GraphQL, Nest.js, Swagger and many more.
   
 ## Techstack
 
